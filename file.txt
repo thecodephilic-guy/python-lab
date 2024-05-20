@@ -1,0 +1,5 @@
+Content of the file:
+This is an example text file.
+It contains multiple lines of text.
+You can read this file using a Python program.
+Enjoy coding!
